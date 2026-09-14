@@ -48,7 +48,17 @@ r = 0.369
 
 This number represents a positive association between payroll and wins, as 0 would be no correlation. However, this is far from 1.0, which is a perfect correlation. Payroll has an effect on win count, but there are definitely many factors that also contribute. As seen with the 2023 Mets vs 2011 Rays case, there are many teams with higher payrolls and lower wins, and vice versa. However, there are more teams with lower payrolls with lower wins, as well as higher payrolls and higher wins.
 
-Code and AI Transparency
+For r^2, we got 0.226, or 22.6%, which means that 22.6% of the variation in regular season wins is explained by this linear relationship. Ryan-Tyler N. Mason, in his journal, "MLB Payroll Versus Wins in 2025", found that in the 2025 season, r^2 was 0.239, or 23.9%. This is a very similar number to what was found from 2011 to 2024. Once again, in his finding, the Mets fell well below the line in number of wins, yet had the highest payroll.
+
+## Code and AI Transparency
 
 The complete code and analysis for this project are available in the GitHub repository, including the Jupyter Notebook used for data cleaning, analysis, statistical calculations, and visualizations. A direct link can be found here:
 [Payroll vs. Wins Jupyter Notebook](https://github.com/brtaylor00/DTSC_2301/blob/main/Payroll_vs_Wins.ipynb)
+
+## Academic References
+
+Bledsoe, J., Conlin, A., Edwards, G., Gawlinski, M., & Lorenz, M. (2022, June 1). Relationship between MLB payroll and performance. https://scholar.valpo.edu/. https://scholar.valpo.edu/cgi/viewcontent.cgi?article=2084&context=cus
+
+University of North Carolina at Chapel Hill. (2024). Patel – pay to play? an analysis between team payroll vs. performance. Patel – Pay to Play? An Analysis Between Team Payroll vs. Performance | Office for Undergraduate Research. https://our.unc.edu/abstract/patel-pay-to-play-an-analysis-between-team-payroll-vs-performance/ 
+
+RTNM, A. (2025). MLB payroll versus wins in 2025. Random Thoughts from a Nonlinear Mind. https://rtnmblog.com/mlb-payroll-versus-wins-in-2025/ 
