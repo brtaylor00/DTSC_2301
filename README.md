@@ -10,3 +10,16 @@ Some Major League Baseball teams can spend much more money than others. For exam
 The dataset used for this project includes team payroll and regular season win totals for each season from 2011 to 2024, with the exception of 2020, due to the season being shortened to 60 games rather than 162 due to COVID-19. Because of this exception, we have a dataset of 13 seasons, and 390 total teams, since there is 30 teams in Major League Baseball.
 
 The dataset was obtained from the Kaggle dataset MLB Team Payrolls 2011–2024. The original dataset contains information about team payroll, wins, losses, average age, roster status, and postseason results.
+
+## Variables
+The variables used in this project were:
+- team
+- season
+- payroll (in millions of dollars)
+- wins
+
+Losses are technically part of this project, since every season included in this dataset was 162 games, so a team's number of losses is (total games - wins).
+
+Payroll: The amount of money allocated by an MLB team toward its players during a season. This is the "Total Payroll Allocations" variable from the dataset, converted from dollar-formatted text into a numerical value measured in U.S. dollars. Payroll is the independent variable in this analysis.
+
+Wins: The number of games an MLB team wins during the regular season. Playoffs are not included due to uneven number of games, as some teams play 0, while some may play as many as 22. It is the "Wins" variable in the dataset, representing the number of regular-season games won by each team. Wins are the dependent variable in this analysis.
