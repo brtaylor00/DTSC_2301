@@ -50,6 +50,9 @@ This number represents a positive association between payroll and wins, as 0 wou
 
 For r^2, we got 0.226, or 22.6%, which means that 22.6% of the variation in regular season wins is explained by this linear relationship. Ryan-Tyler N. Mason, in his journal, "MLB Payroll Versus Wins in 2025", found that in the 2025 season, r^2 was 0.239, or 23.9%. This is a very similar number to what was found from 2011 to 2024. Once again, in his finding, the Mets fell well below the line in number of wins, yet had the highest payroll.
 
+## Conclusion
+From what the data shows, there is a correlation between payroll of Major League Baseball teams and regular season victories in a given year over the last 15 years. However, a team having above average seasons in terms of regular season wins cannot be entirely attributed to payroll. In fact, there are huge outliers, such at the highest payroll of this time period (2023 New York Mets) finishing with 16 fewer victories than one of the lowest payrolls of this time period (2011 Tampa Bay Rays). While one can argue that teams spend much more money in 2023 than 2011, this still does not defend the large difference. There has been a 64.99% increase in payroll over this time, from an average of $101 million to $166 million. However, the difference between the Rays and Mets is $296 million, and still the Rays had a large number of victories more than the Mets. These are the extreme outliers, however, and most teams fall within a short range of the correlation, which shows that just under 1/4 of the variation is explained by payroll.
+
 ## Code and AI Transparency
 
 The complete code and analysis for this project are available in the GitHub repository, including the Jupyter Notebook used for data cleaning, analysis, statistical calculations, and visualizations. A direct link can be found here:
