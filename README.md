@@ -25,4 +25,4 @@ Payroll: The amount of money allocated by an MLB team toward its players during 
 Wins: The number of games an MLB team wins during the regular season. Playoffs are not included due to uneven number of games, as some teams play 0, while some may play as many as 22. It is the "Wins" variable in the dataset, representing the number of regular-season games won by each team. Wins are the dependent variable in this analysis.
 
 ![MLB Team Payroll vs. Regular-Season Wins](payroll_vs_wins.png)
-![MLB Payroll Distribution and Average Wins by Payroll Level](payroll_Distribution_vs_wins.png)
+![MLB Payroll Distribution and Average Wins by Payroll Level](payroll_distribution_vs_Wins.png)
