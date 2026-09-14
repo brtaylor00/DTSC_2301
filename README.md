@@ -51,4 +51,4 @@ This number represents a positive association between payroll and wins, as 0 wou
 Code and AI Transparency
 
 The complete code and analysis for this project are available in the GitHub repository, including the Jupyter Notebook used for data cleaning, analysis, statistical calculations, and visualizations. A direct link can be found here:
-[Payroll vs. Wins Jupyter Notebook]((https://github.com/brtaylor00/DTSC_2301/blob/main/Payroll_vs_Wins.ipynb))
+[Payroll vs. Wins Jupyter Notebook](https://github.com/brtaylor00/DTSC_2301/blob/main/Payroll_vs_Wins.ipynb)
