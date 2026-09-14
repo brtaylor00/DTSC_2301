@@ -47,3 +47,8 @@ The Pearson correlation between team payroll and regular-season wins was:
 r = 0.369
 
 This number represents a positive association between payroll and wins, as 0 would be no correlation. However, this is far from 1.0, which is a perfect correlation. Payroll has an effect on win count, but there are definitely many factors that also contribute. As seen with the 2023 Mets vs 2011 Rays case, there are many teams with higher payrolls and lower wins, and vice versa. However, there are more teams with lower payrolls with lower wins, as well as higher payrolls and higher wins.
+
+Code and AI Transparency
+
+The complete code and analysis for this project are available in the GitHub repository, including the Jupyter Notebook used for data cleaning, analysis, statistical calculations, and visualizations. A direct link can be found here:
+[Payroll vs. Wins Jupyter Notebook]((https://github.com/brtaylor00/DTSC_2301/blob/main/Payroll_vs_Wins.ipynb))
